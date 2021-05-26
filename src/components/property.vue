@@ -36,7 +36,9 @@
                 </v-expansion-panels>
               </v-flex>
               <v-flex d-flex class="grey lighten-3 my-9" justify-center>
-                  <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="si" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=es&amp;q=Les Rambles, 1 Barcelona, Spain+(Mi nombre de egocios)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://www.mapsdirections.info/marcar-radio-circulo-mapa/">Dibuja un circulo Google Maps</a></div>
+                  <div style="width: 100%">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.7052444924475!2d-58.39748808505291!3d-34.586324064084444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca98adabd4e1%3A0x14a786943a523a44!2sAv.%20Pueyrred%C3%B3n%202400%2C%20C1057%20CABA!5e0!3m2!1ses-419!2sar!4v1622065259666!5m2!1ses-419!2sar" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                  </div>
               </v-flex>
                 <v-flex class="grey lighten-4 rounded pa-10" justify="center">
                   <h2> Sobre el inmueble</h2>
